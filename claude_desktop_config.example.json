@@ -1,0 +1,12 @@
+{
+  "mcpServers":{
+    "pgvector":{
+      "command": "java",
+      "args":[
+        "-jar",
+        "Replace with absolute/path/pgvector-mcp-server/target/pgvector-mcp-server-0.1.0.jar"
+      ],
+      "env": {}
+    }
+  }
+}
